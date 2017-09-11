@@ -1,5 +1,6 @@
 {
   "name": "medium",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "308032a1",
+  "type": "ionic-angular",
+  "integrations": {}
 }
